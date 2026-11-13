@@ -1,4 +1,4 @@
-#  About Me:
+#  💫About Me:
  Hi, I'm Sundarasamy R<br><br> Full Stack Developer | Python Developer | AI & Machine Learning Enthusiast<br><br>I'm a passionate Computer Science Engineering student and aspiring Full Stack Developer who enjoys transforming ideas into scalable, user-friendly, and impactful software solutions.<br><br>I specialize in building modern web applications, developing backend systems, integrating databases, and exploring intelligent solutions using Python, Artificial Intelligence, and Machine Learning.<br><br>I believe in continuous learning, writing clean and maintainable code, and building technology that solves real-world problems.
 
 
